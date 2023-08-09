@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & React Native**
 
-- 👨‍💻 All of my projects are available at (Coming soon)
+- 👨‍💻 All of my projects are available at https://shivaydv.netlify.app/
 
 - 📫 How to reach me **shivaydv1256@gmail.com**
 
