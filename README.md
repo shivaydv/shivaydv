@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=shivaydv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack, Next JS & TypeScript<br>👨‍💻 All of my projects are available at https://shivaydv.netlify.app/<br>📫 How to reach me shivaydv1256@gmail.com
+🌱 I’m currently learning MERN Stack, Next JS & TypeScript<br>👨‍💻 All of my projects are available at https://shivayadav.tech/<br>📫 How to reach me shivaydv1256@gmail.com
 
 
 ## 🌐 Socials:
