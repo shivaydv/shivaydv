@@ -13,10 +13,10 @@
 
 <br/>
 
-![shivaydv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaydv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ![shivaydv's Stats](https://github-readme-stats.vercel.app/api?username=shivaydv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![shivaydv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaydv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![shivaydv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivaydv&theme=tokyonight&hide_border=true)
 
 
