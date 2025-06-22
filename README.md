@@ -8,7 +8,6 @@
 #### 👾 About Me
 - ✨ &nbsp;I am a Developer & Designer
 - 🌱 &nbsp;I’m currently learning Next JS & DSA
-- 👀 &nbsp;Checkout [My Portfolio](shivayadav.tech)
 - ✉️ &nbsp;shivaydv1256@gmail.com
 
 <br/>
