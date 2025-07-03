@@ -6,8 +6,7 @@
 
 
 #### 👾 About Me
-- ✨ &nbsp;I am a Developer & Designer
-- 🌱 &nbsp;I’m currently learning Next JS & DSA
+- ✨ &nbsp;I am a Full Stack Developer 
 - ✉️ &nbsp;shivaydv1256@gmail.com
 
 <br/>
